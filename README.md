@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pjbeaugendre
+- 👀 I’m interested in mobile application development
+- 🌱 I’m currently learning at Epitech Lille
+- 📫 You can reach me on LinkedIn : pjbeaugendre
