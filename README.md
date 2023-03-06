@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pjbeaugendre
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning at Epitech Lille
+- 👀 I’m interested in Web development
+- 🌱 I’m learning at Epitech Lille but currently I am in Dublin for my 4th year of studies.
 - 📫 You can reach me on LinkedIn : pjbeaugendre
