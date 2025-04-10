@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @pjbeaugendre
 - 👀 I’m interested in Web development
-- 🌱 I’m learning at Epitech Lille but currently I am in Dublin for my 4th year of studies.
+- 🌱 I learned at Epitech Lille for 5 years
+- 👨‍💼 I'm currently working at Axa as Software Engineer
 - 📫 You can reach me on LinkedIn : pjbeaugendre
